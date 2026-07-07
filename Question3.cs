@@ -1,4 +1,7 @@
-using System;
+//Declare three variables for Physics, Chemistry, and Mathematics marks, then calculate the total.
+
+
+using System; 
 using System.ComponentModel;
 using System.Net.NetworkInformation;
 public class Question3

@@ -1,3 +1,6 @@
+//Declare variables to store your name, age, and city, then display them.
+
+
 using System ;
 using System.Diagnostics;
 using System.Transactions;

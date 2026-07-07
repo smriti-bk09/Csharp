@@ -13,10 +13,11 @@ public class Program
         /*Question3 que = new Question3();
         que.Subjectmarks();*/
 
-         Question4 a = new Question4();
-         a.Calculatearea();
+        //  Question4 a = new Question4();
+        //  a.Calculatearea();
         
-        
+        Question5 c = new Question5();
+        c.Swaping();
 
     }
 }
