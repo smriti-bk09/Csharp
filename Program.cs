@@ -6,10 +6,17 @@ public class Program
        /*Question1 question = new Question();
         question.Introduction();*/
 
-        /*Question2 que = new Question2();
-        que.Sum();*/
+        /*Question2 question = new Question2();
+        question.Sum();*/
+        // 
 
-        Question3 sum = new Question3();
-        sum.Subjectmarks();
+        /*Question3 que = new Question3();
+        que.Subjectmarks();*/
+
+         Question4 a = new Question4();
+         a.Calculatearea();
+        
+        
+
     }
 }
