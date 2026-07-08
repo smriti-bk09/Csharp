@@ -19,7 +19,10 @@ public class Program
         // Question5 c = new Question5();
         // c.Swaping();
   
-   Question6 d = new Question6();
-   d.Usingthirdvariable();
+//    Question6 d = new Question6();
+//    d.Usingthirdvariable();
+
+Question7 e = new Question7();
+e.Perimeter();
     }
 }
