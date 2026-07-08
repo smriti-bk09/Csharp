@@ -16,8 +16,10 @@ public class Program
         //  Question4 a = new Question4();
         //  a.Calculatearea();
         
-        Question5 c = new Question5();
-        c.Swaping();
-
+        // Question5 c = new Question5();
+        // c.Swaping();
+  
+   Question6 d = new Question6();
+   d.Usingthirdvariable();
     }
 }
