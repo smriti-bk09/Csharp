@@ -22,7 +22,10 @@ public class Program
 //    Question6 d = new Question6();
 //    d.Usingthirdvariable();
 
-Question7 e = new Question7();
-e.Perimeter();
+// Question7 e = new Question7();
+// e.Perimeter();
+
+Question8 a = new Question8();
+a.Simpleintrest();
     }
 }
