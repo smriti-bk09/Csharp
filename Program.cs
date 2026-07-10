@@ -28,7 +28,13 @@ public class Program
 // Question8 a = new Question8();
 // a.SimpleIntrest();
 
-Question9 a = new Question9();
-a.SubjectMarksAvg();
+// Question9 a = new Question9();
+// a.SubjectMarksAvg();
+
+Question10 a = new Question10();
+a.ConvertIntoFahreheit();
+
+
+    }
     }
 }
