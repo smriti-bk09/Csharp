@@ -1,9 +1,10 @@
 //Swap two variables without using a third variable.
 
+
 using System;
 public class Question6
 {
-    public void Usingthirdvariable()
+    public void UsingThirdVariable()
     {
         int a = 15;
         int b = 5;

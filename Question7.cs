@@ -1,3 +1,7 @@
+
+
+
+//Store the length and breadth of a rectangle and calculate the perimeter.
 using System;
 public class Question7{
 public void Perimeter()

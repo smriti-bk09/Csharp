@@ -11,21 +11,24 @@ public class Program
         // 
 
         /*Question3 que = new Question3();
-        que.Subjectmarks();*/
+        que.SubjectMarks();*/
 
         //  Question4 a = new Question4();
-        //  a.Calculatearea();
+        //  a.CalculateArea();
         
         // Question5 c = new Question5();
         // c.Swaping();
   
 //    Question6 d = new Question6();
-//    d.Usingthirdvariable();
+//    d.UsingThirdVariable();
 
 // Question7 e = new Question7();
 // e.Perimeter();
 
-Question8 a = new Question8();
-a.Simpleintrest();
+// Question8 a = new Question8();
+// a.SimpleIntrest();
+
+Question9 a = new Question9();
+a.SubjectMarksAvg();
     }
 }

@@ -6,7 +6,7 @@ using System.ComponentModel;
 using System.Net.NetworkInformation;
 public class Question3
 {
-    public void Subjectmarks()
+    public void SubjectMarks()
     {
           int physic =50;
           int chemistry =30;

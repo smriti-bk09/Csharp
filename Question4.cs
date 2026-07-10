@@ -3,7 +3,7 @@
 using System;
 public class Question4
 {
-    public void Calculatearea()
+    public void CalculateArea()
     {
         int length = 20;
         int breath =30;
