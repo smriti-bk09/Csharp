@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp_class12\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Lenovo\\Csharp_course\\Csharp\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Csharp_class12\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Lenovo\\Csharp_course\\Csharp\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp_class12\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Csharp_course\\Csharp\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\Csharp_class12\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Csharp_course\\Csharp\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp_class12\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Csharp_course\\Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
